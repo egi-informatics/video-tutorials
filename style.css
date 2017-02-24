@@ -1,0 +1,10 @@
+body{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+}
+.content {
+  width: 600px;
+  margin: 36px auto;
+}
+iframe {
+  margin-bottom: 36px;
+}
